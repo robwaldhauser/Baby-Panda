@@ -49,23 +49,25 @@ The mod does **not** replace these — keep the ones you have:
 | Rods, front and rear | Ø8 × 300 mm |
 | Rollers, front and rear | Ø57 × 230 mm |
 | Bearings | 608 skateboard bearings (8 mm bore) |
-| Drive motors | 2 × NEMA 17, **32 mm body** |
+| Drive motors | 2 × **salvaged stock Ender 3 NEMA 17** (5 mm shaft) |
 | Bed rails | **2 × 4040 × 350 mm extrusion** (4020/2040 works, 4040 is better) |
 | Drive belt | GT2 closed loop, **200 mm × 6 mm** — 2 needed |
-| Motor pulley | GT2 **20 tooth** — 2 needed |
-| Roller pulley | GT2 **60 tooth** — 2 needed (3:1 reduction) |
+| Motor pulley | GT2 **20 tooth, 5 mm bore** — 2 needed |
+| Roller pulley | GT2 **60 tooth, 8 mm bore** — 2 needed (3:1 reduction) |
 
-Pulleys and belts come as one kit — e.g. a *GT2 20 & 60 tooth, 8 mm bore aluminium
-set with 200 mm × 6 mm belts*. **You need two of each size**, one per side.
+**You need two of each size**, one per side.
+
+⚠️ **The two pulleys take different bores.** The motors are salvaged stock Ender 3
+steppers, which have **5 mm shafts**, so the 20T is a **5 mm bore**. The 60T mounts on
+the Ø8 roller rod, so it is an **8 mm bore**. Many GT2 kits ship both sizes at a single
+bore — check before you buy.
 
 The 200 mm belt is corroborated by the CAD: measured centre distance between the motor
 and roller pulleys is **56.87 mm**, which with 20T (Ø12.73 pitch) and 60T (Ø38.20 pitch)
 gives a required belt of **196.6 mm**. The 3.4 mm difference is taken up by the
 *adjustable* motor mount as tension.
 
-⚠️ **Check your motor shaft diameter before ordering pulleys.** The common kit is
-**8 mm bore**, while a standard NEMA 17 shaft is **5 mm**. Confirm which you have and
-order the matching bore.
+
 
 ## Frame preparation
 
