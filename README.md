@@ -33,6 +33,14 @@ This assembly is the heart of the project. It adds one additional stepper motor 
 <p><img src="images/belt_assembly.png" width="600"></p>
 <p><em>Belt assembly</em></p>
 
+### Belt Cart Mod
+
+An optional redesign of the belt assembly by [@3DCreationsByChad](https://github.com/3DCreationsByChad) that makes the whole belt a **removable cartridge** — rollers, rods, bearings and drive motors lift out as one unit, so belt and bed maintenance no longer means dismantling the machine. It also **fixes the bed sag** present in the original design.
+
+Parts, hardware, print settings and frame preparation: **[BeltCartMod/](BeltCartMod/)**
+
+⚠️ It is not compatible with the old bed shield, and it requires new through-holes drilled in the frame sides for the dual bed rails. A printable drill jig is included.
+
 ## The Frame
 The standard Baby Panda frame can be built entirely from extrusions salvaged from 2 Ender 3s. Ender 3 pro is ideal. 3V2 can work, but the Y extrusion is slightly shorter. This can be worked around using spacers or by buying a longer extrusion.
 
